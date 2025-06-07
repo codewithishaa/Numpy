@@ -1,6 +1,4 @@
-# 📊 NumPy Tutorial Notebooks
-
-This repository contains beginner-to-advanced code on using **NumPy**, the fundamental Python library for numerical computing. These notebooks are designed to help learners, data science enthusiasts, and YouTube viewers understand NumPy through well-commented, hands-on examples.
+# 📊 NumPy
 
 ---
 
@@ -35,17 +33,3 @@ This repository contains beginner-to-advanced code on using **NumPy**, the funda
 - Preparing NumPy arrays for machine learning (e.g., with `scikit-learn`)
 
 ---
-
-## 🧠 Who Is This For?
-
-- Students learning Python for data analysis
-- Data science beginners working with NumPy
-- YouTube tutorial viewers following along step-by-step
-- Anyone looking for clean, commented examples in Jupyter Notebooks
-
----
-
-## 🛠️ Requirements
-
-```bash
-pip install numpy pandas matplotlib scikit-learn
